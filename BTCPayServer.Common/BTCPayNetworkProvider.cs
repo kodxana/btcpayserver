@@ -45,6 +45,7 @@ namespace BTCPayServer
 #if ALTCOINS
             InitLiquid();
             InitLiquidAssets();
+            InitLBRYCredits();
             InitLitecoin();
             InitBitcore();
             InitDogecoin();
