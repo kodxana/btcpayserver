@@ -1280,6 +1280,15 @@
       "symbol":null,
       "crypto":true
    },
+     
+   {
+      "name":"LBRYCredits",
+      "code":"LBC",
+      "divisibility":8,
+      "symbol":null,
+      "crypto":true
+   },
+     
    {
       "name":"Satoshis",
       "code":"SATS",
